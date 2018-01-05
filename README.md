@@ -9,9 +9,9 @@
 
 - [SAS](https://www.sas.com/en_us/solutions/analytics.html)
 
-- [PLINK](https://www.cog-genomics.org/plink2studies)  
+- [PLINK](https://www.cog-genomics.org/plink2studies)  \s\s
 Software for genetic association 
 
-- [DataCamp](https://www.datacamp.com/home)
+- [DataCamp](https://www.datacamp.com/home) \s\s
 Provide some online free classes fir learning R programming  
 
