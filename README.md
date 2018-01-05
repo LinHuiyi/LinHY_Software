@@ -1,7 +1,9 @@
-**SNP Interaction Pattern Identifier (SIPI)_R package:**
+#**SNP Interaction Pattern Identifier (SIPI)**
+
+[SIPI R package](https://linhuiyi.github.io/SIPI/)  
 
 &nbsp;&nbsp;
-[SIPI R package download](https://linhuiyi.github.io/SIPI/)  
+[SIPI R package download]
 &nbsp;&nbsp;
 [SIPI R package manual](http://publichealth.lsuhsc.edu/LinSoftware/SIPI%20R%20package%20manual.pdf)
 
