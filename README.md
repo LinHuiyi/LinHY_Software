@@ -9,7 +9,7 @@
 
 - [SAS](https://www.sas.com/en_us/solutions/analytics.html)
 
-- [PLINK](https://www.cog-genomics.org/plink2studies)  
+- [PLINK](https://www.cog-genomics.org/plink/2.0/)  
   Software for genetic association analyses
 
 - [DataCamp](https://www.datacamp.com/home) 
