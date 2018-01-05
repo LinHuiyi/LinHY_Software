@@ -13,5 +13,6 @@
 Software for genetic association 
 
 - [DataCamp](https://www.datacamp.com/home) 
-Provide some online free classes fir learning R programming  
+
+Online classes for learning R programming & other software  
 
