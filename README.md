@@ -1,7 +1,7 @@
 **SNP Interaction Pattern Identifier (SIPI)_R package:**
 
 &nbsp;&nbsp;
-[SIPI 0.2.tar](http://publichealth.lsuhsc.edu/LinSoftware/SIPI_0.2.tar.gz)  
+[SIPI R package download](https://linhuiyi.github.io/SIPI/)  
 &nbsp;&nbsp;
 [SIPI R package manual](http://publichealth.lsuhsc.edu/LinSoftware/SIPI%20R%20package%20manual.pdf)
 
