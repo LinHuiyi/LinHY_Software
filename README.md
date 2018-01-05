@@ -12,7 +12,7 @@
 &nbsp;&nbsp;
 [simData cov](http://publichealth.lsuhsc.edu/LinSoftware/simData_cov.csv)
 
-**Statistical software resources:**
+# **Statistical software resources:**
 
 - **R**  
 https://www.r-project.org/
