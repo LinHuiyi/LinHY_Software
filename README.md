@@ -5,16 +5,13 @@
 
 ## **Statistical software resources:**
 
-- **R**  
-https://www.r-project.org/
+- [R](https://www.r-project.org/)
 
-- **SAS**  
-https://www.sas.com/en_us/solutions/analytics.html
+- [SAS](https://www.sas.com/en_us/solutions/analytics.html)
 
-- **PLINK**  
-Software for genetic association studies  
-https://www.cog-genomics.org/plink2
+- [PLINK](https://www.cog-genomics.org/plink2studies)  
+Software for genetic association 
 
-- **DataCamp**
+- [DataCamp](https://www.datacamp.com/home)
 Provide some online free classes fir learning R programming  
-https://www.datacamp.com/home
+
