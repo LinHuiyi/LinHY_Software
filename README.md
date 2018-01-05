@@ -20,5 +20,5 @@ AA9int, a mini-version of SIPI, evaluates **9 SNP interaction patterns**. For a 
   Software for genetic association analyses
 
 - [**DataCamp**](https://www.datacamp.com/home/) 
-  Online classes for learning R programming & other software  
+   Online classes for learning R programming & other software  
 
