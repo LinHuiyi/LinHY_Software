@@ -1,9 +1,9 @@
-# **SNP Interaction Pattern Identifier (SIPI)**
+## **SNP Interaction Pattern Identifier (SIPI)**
 
 [Download SIPI R package & SAS macro](https://linhuiyi.github.io/SIPI/)  
 
 
-# **Statistical software resources:**
+## **Statistical software resources:**
 
 - **R**  
 https://www.r-project.org/
