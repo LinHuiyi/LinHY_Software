@@ -1,8 +1,8 @@
 
 ## **SIPI** (SNP Interaction Pattern Identifier) 
-<p align="center">
-![SIPI Logo](https://user-images.githubusercontent.com/14879989/34347408-8b1231e0-e9c8-11e7-83ee-5a894ec26f45.jpg){:height="50%" width="50%"}
-</p>
+
+![SIPI Logo](https://user-images.githubusercontent.com/14879989/34347408-8b1231e0-e9c8-11e7-83ee-5a894ec26f45.jpg){:height="50%" width="50%"}{.center}
+
 SIPI is a powerful tool for detecting SNP-SNP interactions associated with a binary or continuous outcome. For each SNP pair, **45 SNP-SNP interaction patterns** are tested.  
 
 ```
