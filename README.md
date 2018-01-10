@@ -1,9 +1,8 @@
 
 ## **SIPI** (SNP Interaction Pattern Identifier) 
-
-[**Download SIPI R package & SAS macro**](https://github.com/LinHuiyi/SIPI)  
-
 ![SIPI Logo](https://user-images.githubusercontent.com/14879989/34347408-8b1231e0-e9c8-11e7-83ee-5a894ec26f45.jpg)
+
+<span style="color:red; font-family:Georgia; font-size:2em;">[**Download SIPI R package & SAS macro**](https://github.com/LinHuiyi/SIPI)  </span>
 
 SIPI is a powerful tool for detecting SNP-SNP interactions associated with a binary or continuous outcome. For each SNP pair, **45 SNP-SNP interaction patterns** are tested.  
 
